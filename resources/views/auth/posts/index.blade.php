@@ -22,7 +22,7 @@
 
 <div class="card">
     <div class="card-body">
-      <h4 class="card-title">Posts</h4>
+      <h4 class="card-title" >Posts</h4>
       </p>
       <div class="table-responsive">
         @if (count($posts) > 0)

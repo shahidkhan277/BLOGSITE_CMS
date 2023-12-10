@@ -33,7 +33,7 @@
               <!-- <p>CT</p> -->
             </a>
             <a href="https://www.creative-tim.com" class="simple-text logo-normal">
-              Your Logo
+              MSK
               <!-- <div class="logo-image-big">
                 <img src="../assets/img/logo-big.png">
               </div> -->

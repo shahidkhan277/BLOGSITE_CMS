@@ -76,7 +76,7 @@
         <div class="row mb-5">
           <div class="col-md-4">
             <h3 class="footer-heading mb-4">About Us</h3>
-            <p>Welcome to Know It, the premier destination for knowledge enthusiasts. Our blogging website is a treasure trove of insights, discoveries, and fascinating narratives. Delve into a diverse range of topics, from the latest scientific breakthroughs to thought-provoking philosophical discussions. Our dedicated team of writers meticulously researches and crafts engaging content to quench your thirst for knowledge. Join our vibrant community of learners, thinkers, and explorers, and embark on a journey of intellectual curiosity. At Know It, we believe in the power of knowledge to inspire, inform, and empower. Expand your mind and ignite your passion for learning with us.</p>
+            <p>Know It is a blogging website dedicated to sharing knowledge on a wide range of subjects. From science and technology to travel and lifestyle, we strive to provide informative and engaging content that empowers our readers to expand their horizons and stay informed.</p>
           </div>
           <div class="col-md-3 ml-auto">
             <!-- <h3 class="footer-heading mb-4">Navigation</h3> -->

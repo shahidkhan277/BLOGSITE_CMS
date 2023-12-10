@@ -142,9 +142,9 @@
                   <a href="">
                     <img src="{{$latestpost->gallery->image}}" alt="Image placeholder" class="mr-4">
                     <div class="text">
-                      <h4><a style="color:black !important" href="{{route('single-blog' , $latestpost->id)}}">{{Str::limit($latestpost->title , '30')}}</a></h4>
+                      <h4><a style="color:black !important ; height: 40px" href="{{route('single-blog' , $latestpost->id)}}">{{$latestpost->title}}</a></h4>
                       <div class="post-meta">
-                        <span class="mr-2">March 15, 2018 </span>
+                        <span class="mr-2">{{date('d M Y',strtotime($latestpost->created_at))}}</span>
                       </div>
                     </div>
                   </a>

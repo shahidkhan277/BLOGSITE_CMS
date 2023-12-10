@@ -50,7 +50,7 @@
                 </div>
                 
                 <div class="form-outline form-white mb-4">
-                    <label class="form-label" for="typePasswordX" style="font-size: 20px;">Enter Your Password</label>
+                    <label class="form-label" for="typePasswordX" style="font-size: 20px;">Confirm Your Password</label>
                     <input type="password" id="typePasswordX" class="form-control" type="password" class="form-control" name="password_confirmation" required autocomplete="new-password"/>
                     @error('password')
                     <span class="invalid-feedback" role="alert">

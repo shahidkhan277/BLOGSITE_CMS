@@ -69,7 +69,7 @@
               <div class="excerpt">
               <span class="post-category text-white bg-info mb-3">{{$blog->category->name}}</span>
   
-              <h2><a href="{{route('single-blog', $blog->id)}}">{{Str::limit($blog->title ,'40')}}</a></h2>
+              <h2 style="height:100px ; width:300px"><a href="{{route('single-blog', $blog->id)}}">{{$blog->title}}</a></h2>
               <div class="post-meta align-items-center text-left clearfix">
                 <figure class="author-figure mb-0 mr-3 float-left"><img src="{{asset('assets/site/images/person_1.jpg')}}" alt="Image" class="img-fluid"></figure>
                 <span class="d-inline-block mt-1">By <a href="#">{{$blog->user->name}}</a></span>
